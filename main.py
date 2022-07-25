@@ -12,17 +12,17 @@ import chromedriver_autoinstaller
 from config import *
 
 """
-Kryterium najważniejsze
+Nasze najwaniejsze kryteria:
 1. Cena
 2. Bezpłatne odwołanie
 3. 2 sypialnie - obojętna kombinacja 1  duże lub 2 małe <- ręczenie 
 4. Blisko plaży
 5. Aneks kuchenny
-6. Blisko sklep do 4km <-ręcznie!
-Kryterium dodatkowe
-7. Plaża - kamienista niż "skalna"
+6. Blisko sklepu do 4km <-ręcznie!
+Kryteria dodatkowe:
+7. Plaża - kamienista niż "skalna" <- ręcznie!
 8. Ocena minimum 7.0
-9. Liczba opini minimum 10 <- ręczenie
+9. Liczba opini minimum 10 <- ręcznie!
 """
 
 
